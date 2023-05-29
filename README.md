@@ -14,6 +14,8 @@ Dúvidas: https://github.com/digitalinnovationone/cv/issues
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
-## 🔴 Link do meu Curriculum Vitae Online:
+## 🔴 Meu Curriculum Vitae Online:
 
-https://yannmartins.github.io/curriculumVitae/
+### Link: https://yannmartins.github.io/curriculumVitae/
+
+![CV](https://github.com/YannMartins/curriculumVitae/assets/102706324/9cc2890c-94d5-40ff-a580-a438c62a327c)
