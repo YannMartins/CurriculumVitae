@@ -1,6 +1,6 @@
 # 📑 Meu Curriculum Vitae Online:
 
-### Link: https://yannmartins.github.io/curriculumVitae/
+### Link: https://yannmartins.github.io/CurriculumVitae/
 
 ![image](https://github.com/YannMartins/curriculumVitae/assets/102706324/0035ba97-8d1b-4b97-bdf8-237d15806cde)
 
